@@ -1,2 +1,2 @@
 # textbasedgame
-# this is our project for SENG 1005
+# a game i coded in python for a bit!
